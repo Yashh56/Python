@@ -5,12 +5,12 @@ This Repository consists of Python Tutorial.
 
 Python is a popular, versatile programming language that is widely used for developing a variety of applications,machine-learning, ranging from web applications to mobile apps and enterprise systems
 
-## Authors
+## Authors of this repository 
 
 - [@Yashh56](https://github.com/Yashh56)
 
 
-## Hello World In Java 
+## Hello World In Python 
 
 ```public class HelloWorld {
  print("Hello World :) ")
